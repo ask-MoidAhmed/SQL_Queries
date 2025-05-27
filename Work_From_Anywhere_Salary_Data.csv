@@ -1,0 +1,501 @@
+Company,Job Title,Industry,Location,Employment Type,Experience Level,Remote Flexibility,Salary (Annual),Currency,Years of Experience,Job Satisfaction Score (1-10),Perks,Last Promotion (Years Ago),TechStack1,TechStack2
+Microsoft,Data Analyst,Media,Austin,Part-time,Mid,Remote,155200.11,AUD,1.3,7,Stock Options,0.47,Python,SQL
+Apple,Data Scientist,Retail,San Francisco,Part-time,Lead,Remote,106365.54,INR,12.1,1,Gym Membership,1.7,JavaScript,React
+Amazon,Software Engineer,Healthcare,San Francisco,Full-time,Lead,Remote,91026.49,INR,9.1,1,Gym Membership,2.68,C#,.NET
+Tesla,Data Analyst,Retail,Austin,Contract,Mid,Onsite,41824.38,EUR,11.6,2,Stock Options,1.9,JavaScript,React
+Adobe,DevOps Engineer,Healthcare,New York,Contract,Senior,Remote,143929.78,USD,9.1,3,Health Insurance,0.82,Go,Kubernetes
+Tesla,Product Manager,Media,Chicago,Part-time,Senior,Remote,68938.17,USD,12.1,7,Stock Options,1.05,Java,Spring
+IBM,DevOps Engineer,Healthcare,New York,Internship,Lead,Onsite,108004.81,INR,2.1,9,Flexible Hours,3.74,Go,Kubernetes
+Tesla,Data Scientist,Education,Austin,Part-time,Mid,Onsite,113897.69,USD,12.9,3,Health Insurance,3.96,C#,.NET
+Tesla,Data Scientist,Tech,Seattle,Internship,Lead,Onsite,72740.4,AUD,12.9,1,Stock Options,3.41,C#,.NET
+Salesforce,Product Manager,Media,Austin,Full-time,Senior,Hybrid,56886.82,USD,14.3,5,Health Insurance,2.54,Go,Kubernetes
+Microsoft,DevOps Engineer,Healthcare,Boston,Part-time,Mid,Hybrid,159626.84,AUD,14.3,9,Remote Stipend,1.62,Python,SQL
+Google,Data Analyst,Healthcare,Boston,Contract,Mid,Remote,70948.17,AUD,14.2,2,Gym Membership,4.08,C#,.NET
+Salesforce,Software Engineer,Finance,Chicago,Internship,Mid,Hybrid,119704.54,AUD,6.3,4,Health Insurance,3.56,Go,Kubernetes
+Tesla,DevOps Engineer,Media,Austin,Internship,Lead,Remote,72143.95,USD,5.1,10,Health Insurance,2.94,Go,Kubernetes
+Google,Data Analyst,Media,Chicago,Full-time,Mid,Remote,183921.4,INR,1.1,4,Gym Membership,1.07,Java,Spring
+Amazon,DevOps Engineer,Retail,Remote,Internship,Mid,Hybrid,167274.49,EUR,1.4,7,Gym Membership,2.06,Java,Spring
+Google,DevOps Engineer,Media,Chicago,Full-time,Entry,Hybrid,153796.31,USD,3.7,4,Gym Membership,0.7,Go,Kubernetes
+Amazon,Product Manager,Education,New York,Full-time,Lead,Onsite,46644.48,AUD,12.5,2,Health Insurance,2.03,JavaScript,React
+Adobe,Software Engineer,Education,San Francisco,Part-time,Lead,Remote,197502.5,INR,13.9,8,Gym Membership,3.48,Java,Spring
+Salesforce,DevOps Engineer,Media,Seattle,Part-time,Mid,Hybrid,67009.15,USD,8.7,9,Flexible Hours,0.29,Python,SQL
+IBM,UX Designer,Retail,Boston,Part-time,Entry,Onsite,43618.95,EUR,1,2,Health Insurance,2.02,C#,.NET
+IBM,Software Engineer,Retail,Remote,Full-time,Entry,Hybrid,141753.44,AUD,7.8,5,Flexible Hours,1.19,JavaScript,React
+Tesla,Software Engineer,Media,Chicago,Contract,Lead,Hybrid,187933.12,USD,0.1,10,Stock Options,0.37,Go,Kubernetes
+Apple,Data Scientist,Healthcare,New York,Contract,Entry,Remote,92819.61,EUR,6.6,9,Flexible Hours,3.06,C#,.NET
+Salesforce,Data Analyst,Media,Boston,Contract,Entry,Remote,74959.21,USD,11.1,3,Flexible Hours,3.02,Java,Spring
+Netflix,Software Engineer,Media,Chicago,Contract,Lead,Hybrid,183907.2,USD,1.4,7,Stock Options,0.02,Java,Spring
+Amazon,DevOps Engineer,Healthcare,New York,Internship,Lead,Onsite,31643.85,USD,14.2,3,Stock Options,4.17,Go,Kubernetes
+IBM,Data Scientist,Finance,Seattle,Part-time,Entry,Hybrid,91990.76,USD,13.5,4,Health Insurance,3.33,C#,.NET
+Netflix,Data Scientist,Education,Remote,Part-time,Mid,Remote,195955.03,EUR,13.2,1,Flexible Hours,3.91,JavaScript,React
+Tesla,DevOps Engineer,Media,Boston,Part-time,Senior,Remote,163853.67,USD,5.7,1,Health Insurance,1,R,Tableau
+Adobe,Product Manager,Healthcare,Boston,Part-time,Mid,Remote,142205.64,GBP,4.9,2,Flexible Hours,3.21,Java,Spring
+Tesla,DevOps Engineer,Retail,Austin,Full-time,Entry,Hybrid,60356.53,INR,0.6,10,Flexible Hours,3.64,R,Tableau
+Netflix,UX Designer,Retail,Remote,Full-time,Lead,Onsite,62313.39,USD,10.6,1,Remote Stipend,3.43,Go,Kubernetes
+Apple,Product Manager,Education,San Francisco,Contract,Senior,Onsite,174162.6,INR,7.6,7,Gym Membership,3.49,Java,Spring
+Salesforce,Software Engineer,Finance,Seattle,Internship,Mid,Onsite,126747.89,GBP,8.2,1,Flexible Hours,1.05,Java,Spring
+IBM,Data Scientist,Media,Austin,Internship,Lead,Hybrid,144856.63,AUD,7.1,3,Stock Options,1.42,C#,.NET
+IBM,Product Manager,Tech,Boston,Part-time,Senior,Remote,167115.69,EUR,0.4,4,Remote Stipend,4.25,R,Tableau
+Microsoft,UX Designer,Education,Chicago,Part-time,Lead,Hybrid,97940.99,EUR,9.8,1,Gym Membership,1.09,Python,SQL
+Salesforce,UX Designer,Tech,Remote,Part-time,Entry,Hybrid,52667.65,GBP,10,9,Flexible Hours,4.75,Go,Kubernetes
+Adobe,Data Scientist,Media,Remote,Internship,Lead,Remote,156421.43,GBP,6.8,4,Flexible Hours,3.83,C#,.NET
+Salesforce,UX Designer,Media,New York,Contract,Lead,Remote,151302.63,EUR,4.1,6,Stock Options,0.69,Go,Kubernetes
+Apple,UX Designer,Media,New York,Part-time,Entry,Hybrid,99291.89,AUD,7,1,Gym Membership,1.95,JavaScript,React
+IBM,DevOps Engineer,Tech,Boston,Internship,Lead,Remote,190266.08,INR,11.3,7,Remote Stipend,4,Go,Kubernetes
+Apple,UX Designer,Finance,Austin,Internship,Lead,Remote,96105.72,GBP,10.9,8,Remote Stipend,2.67,JavaScript,React
+Tesla,Data Scientist,Retail,Chicago,Full-time,Entry,Onsite,102864.17,GBP,2.7,5,Flexible Hours,1.06,R,Tableau
+Netflix,Product Manager,Education,Austin,Internship,Senior,Remote,109952.16,AUD,0.8,6,Stock Options,3.91,JavaScript,React
+Google,Data Analyst,Finance,New York,Full-time,Mid,Remote,51457.57,USD,8.5,4,Flexible Hours,3.83,R,Tableau
+Amazon,Data Scientist,Retail,Chicago,Full-time,Mid,Hybrid,48376.79,USD,13.9,10,Gym Membership,1.98,C#,.NET
+Apple,Data Analyst,Retail,Chicago,Part-time,Entry,Onsite,161321.75,AUD,12.1,10,Flexible Hours,2.66,Python,SQL
+Netflix,Data Analyst,Retail,Chicago,Contract,Entry,Hybrid,169796.26,USD,6.5,6,Gym Membership,3.54,C#,.NET
+Tesla,Software Engineer,Media,Remote,Contract,Lead,Hybrid,104047.66,AUD,4,4,Flexible Hours,4.41,Python,SQL
+Apple,UX Designer,Retail,Remote,Internship,Senior,Remote,114032.11,INR,2.7,4,Flexible Hours,1.7,Java,Spring
+IBM,DevOps Engineer,Healthcare,Remote,Full-time,Mid,Remote,71030.53,GBP,7.3,4,Gym Membership,3.23,C#,.NET
+Adobe,UX Designer,Tech,San Francisco,Contract,Mid,Hybrid,147603.82,INR,10,6,Remote Stipend,2.65,R,Tableau
+Tesla,DevOps Engineer,Retail,Austin,Contract,Lead,Hybrid,82125.91,EUR,1.8,4,Stock Options,3.71,Java,Spring
+Amazon,Software Engineer,Finance,Chicago,Internship,Senior,Onsite,130229.77,AUD,9,2,Flexible Hours,1.14,JavaScript,React
+Amazon,Product Manager,Tech,Chicago,Part-time,Senior,Remote,195630.14,AUD,4.4,3,Gym Membership,0.51,C#,.NET
+Google,Data Scientist,Healthcare,Seattle,Internship,Lead,Hybrid,61341.82,USD,3.8,8,Stock Options,2,Python,SQL
+Microsoft,Data Scientist,Media,Chicago,Full-time,Mid,Remote,167894.15,INR,1.3,4,Remote Stipend,3.82,Python,SQL
+IBM,Data Scientist,Retail,New York,Internship,Lead,Hybrid,80550.03,AUD,14.9,5,Remote Stipend,0.3,Go,Kubernetes
+Microsoft,Software Engineer,Media,New York,Contract,Entry,Remote,70777.08,AUD,1.1,1,Gym Membership,3.45,R,Tableau
+Adobe,Product Manager,Tech,New York,Contract,Senior,Onsite,176133.14,USD,10.3,5,Remote Stipend,3.31,C#,.NET
+Apple,UX Designer,Tech,Remote,Part-time,Mid,Hybrid,170527.3,USD,0.9,5,Remote Stipend,4.61,Go,Kubernetes
+Adobe,Data Analyst,Education,Chicago,Contract,Lead,Hybrid,115080.27,GBP,6.6,10,Gym Membership,3.67,Python,SQL
+IBM,Product Manager,Tech,San Francisco,Part-time,Entry,Onsite,169641.61,AUD,0.6,3,Remote Stipend,3.26,R,Tableau
+Meta,Software Engineer,Retail,Seattle,Internship,Entry,Hybrid,89153.38,INR,4.8,2,Flexible Hours,2.06,JavaScript,React
+Adobe,Product Manager,Media,Seattle,Full-time,Lead,Remote,83467.92,INR,1.7,7,Stock Options,3.29,Go,Kubernetes
+Salesforce,UX Designer,Education,San Francisco,Part-time,Senior,Onsite,158595.34,GBP,11.4,4,Remote Stipend,0.66,Java,Spring
+Meta,UX Designer,Media,Seattle,Full-time,Entry,Onsite,133508.18,EUR,10.6,5,Stock Options,2.76,Go,Kubernetes
+Microsoft,Software Engineer,Tech,Seattle,Full-time,Mid,Hybrid,188551.02,INR,7.6,5,Gym Membership,4.9,R,Tableau
+Apple,UX Designer,Retail,New York,Internship,Mid,Onsite,116400.95,EUR,13,5,Flexible Hours,4.67,R,Tableau
+Salesforce,Product Manager,Tech,Austin,Contract,Lead,Remote,105913.06,GBP,5.2,9,Gym Membership,2.28,Go,Kubernetes
+Netflix,Software Engineer,Media,New York,Internship,Mid,Hybrid,37420.04,GBP,10.6,7,Health Insurance,2.48,R,Tableau
+Google,Software Engineer,Retail,Remote,Contract,Entry,Hybrid,46950.99,GBP,0.2,3,Health Insurance,0.37,R,Tableau
+Meta,Product Manager,Retail,Chicago,Internship,Entry,Hybrid,174898.03,AUD,5.7,6,Gym Membership,4.36,C#,.NET
+Google,Data Scientist,Tech,New York,Contract,Mid,Onsite,45364.49,USD,11.4,2,Health Insurance,3.47,R,Tableau
+Google,Data Analyst,Healthcare,Boston,Full-time,Senior,Hybrid,93722.99,EUR,3.7,7,Health Insurance,0.85,Go,Kubernetes
+Microsoft,Data Scientist,Education,Remote,Part-time,Lead,Onsite,54330.01,GBP,9.6,8,Stock Options,4.49,Java,Spring
+Adobe,Product Manager,Media,Remote,Part-time,Entry,Hybrid,190690.06,AUD,4.5,7,Flexible Hours,2.28,C#,.NET
+Meta,Software Engineer,Education,Boston,Internship,Entry,Remote,94831.93,INR,8.6,5,Gym Membership,1.37,Python,SQL
+IBM,DevOps Engineer,Media,San Francisco,Internship,Senior,Remote,133201.05,INR,3.3,4,Flexible Hours,3.39,Go,Kubernetes
+Amazon,DevOps Engineer,Tech,Chicago,Full-time,Senior,Hybrid,35671.97,INR,11,2,Flexible Hours,3.74,Java,Spring
+Amazon,Software Engineer,Finance,Boston,Contract,Senior,Remote,73684.91,GBP,14.5,5,Flexible Hours,4.02,C#,.NET
+Adobe,Data Analyst,Finance,Boston,Part-time,Lead,Onsite,92181.76,GBP,0.2,9,Gym Membership,1.84,Python,SQL
+Meta,Data Scientist,Education,Boston,Contract,Entry,Onsite,69749.72,USD,9.3,9,Remote Stipend,1.11,Java,Spring
+Microsoft,DevOps Engineer,Education,Chicago,Contract,Lead,Remote,53762.09,USD,4.6,8,Stock Options,1.17,Python,SQL
+Salesforce,Software Engineer,Education,Seattle,Contract,Lead,Onsite,156185.73,EUR,13.3,2,Remote Stipend,2.04,R,Tableau
+Meta,Data Analyst,Media,Austin,Part-time,Lead,Hybrid,191594.38,INR,1.5,6,Flexible Hours,0.3,Go,Kubernetes
+Meta,Software Engineer,Tech,Boston,Internship,Entry,Onsite,66057.99,AUD,14.6,1,Health Insurance,4.94,Java,Spring
+IBM,Software Engineer,Tech,Boston,Part-time,Mid,Remote,85855.12,EUR,11.8,10,Flexible Hours,4.29,Python,SQL
+Amazon,Software Engineer,Retail,Austin,Part-time,Entry,Onsite,177296.14,EUR,0.2,4,Flexible Hours,0.08,Go,Kubernetes
+Meta,Data Analyst,Finance,Chicago,Internship,Entry,Onsite,40804.87,GBP,11.7,9,Stock Options,2.26,Go,Kubernetes
+Apple,Data Scientist,Tech,Chicago,Contract,Lead,Onsite,193884.45,USD,15,7,Stock Options,2.45,R,Tableau
+Adobe,Data Analyst,Tech,Austin,Part-time,Entry,Remote,76752.72,AUD,8.2,6,Remote Stipend,2.65,R,Tableau
+Adobe,Data Scientist,Retail,Seattle,Full-time,Entry,Onsite,140655.83,AUD,10.8,4,Gym Membership,4.44,R,Tableau
+Tesla,Product Manager,Education,Seattle,Internship,Entry,Hybrid,102549.88,INR,5.6,3,Gym Membership,0.34,C#,.NET
+Microsoft,Data Analyst,Education,San Francisco,Contract,Mid,Onsite,40196.77,AUD,8.4,2,Flexible Hours,4.37,R,Tableau
+Tesla,DevOps Engineer,Tech,Austin,Contract,Senior,Remote,128246.15,EUR,2.3,8,Stock Options,1.75,JavaScript,React
+Salesforce,Product Manager,Tech,Boston,Contract,Mid,Hybrid,173676.38,AUD,9.2,9,Remote Stipend,4.65,Python,SQL
+Meta,Data Analyst,Finance,Austin,Contract,Senior,Hybrid,31037.98,EUR,8.5,7,Health Insurance,3.7,Python,SQL
+Google,Data Analyst,Media,Remote,Part-time,Lead,Hybrid,107119.78,EUR,5.6,6,Remote Stipend,0.42,Go,Kubernetes
+Google,Software Engineer,Finance,Boston,Full-time,Entry,Hybrid,105329.21,GBP,7.3,8,Flexible Hours,1.08,R,Tableau
+Salesforce,Data Analyst,Healthcare,Seattle,Full-time,Senior,Onsite,145342.66,GBP,7.9,5,Health Insurance,1.98,Python,SQL
+IBM,Data Analyst,Tech,New York,Contract,Mid,Remote,159907.35,INR,4.9,1,Gym Membership,0.88,R,Tableau
+Tesla,Data Scientist,Media,New York,Contract,Entry,Hybrid,176499.94,USD,6.5,8,Flexible Hours,2.88,Python,SQL
+IBM,UX Designer,Media,Chicago,Internship,Senior,Remote,98855.49,INR,2.6,10,Flexible Hours,0.44,R,Tableau
+Microsoft,Software Engineer,Education,Remote,Internship,Entry,Hybrid,177989.15,INR,3.3,3,Remote Stipend,3.17,Python,SQL
+Salesforce,Data Scientist,Finance,Boston,Contract,Senior,Onsite,192897.97,EUR,3.5,3,Health Insurance,0.87,Java,Spring
+Amazon,DevOps Engineer,Tech,New York,Internship,Lead,Onsite,159179.12,GBP,10.2,10,Remote Stipend,1.62,C#,.NET
+Netflix,Software Engineer,Education,San Francisco,Internship,Lead,Onsite,81479.47,INR,8.9,6,Stock Options,1.55,Go,Kubernetes
+Adobe,Data Analyst,Tech,Austin,Contract,Entry,Onsite,176922.51,USD,9.2,9,Gym Membership,2.9,R,Tableau
+Google,UX Designer,Retail,Chicago,Part-time,Senior,Onsite,110856.93,EUR,14.4,8,Flexible Hours,4.91,Python,SQL
+Microsoft,Data Scientist,Media,New York,Full-time,Mid,Onsite,104418.91,GBP,7.9,10,Flexible Hours,1.86,JavaScript,React
+Meta,UX Designer,Education,Boston,Contract,Entry,Onsite,140041.91,USD,4.9,9,Gym Membership,1.42,C#,.NET
+IBM,Software Engineer,Healthcare,San Francisco,Part-time,Senior,Hybrid,194508.41,GBP,1.9,2,Remote Stipend,1.88,Java,Spring
+Netflix,Software Engineer,Media,Chicago,Full-time,Lead,Onsite,91510.78,INR,4.6,4,Gym Membership,0.96,Java,Spring
+Amazon,Software Engineer,Tech,Austin,Full-time,Entry,Onsite,87249.94,AUD,2,7,Health Insurance,0.9,JavaScript,React
+IBM,Software Engineer,Media,Seattle,Full-time,Lead,Hybrid,144981.7,EUR,14.5,10,Gym Membership,1.17,Java,Spring
+Apple,Product Manager,Education,Boston,Part-time,Senior,Onsite,191012.13,GBP,6.9,5,Remote Stipend,2.64,R,Tableau
+Amazon,Software Engineer,Retail,New York,Contract,Entry,Onsite,111700.41,INR,8.3,2,Remote Stipend,4.26,C#,.NET
+Meta,Data Analyst,Finance,Austin,Internship,Mid,Hybrid,45591.31,EUR,12.3,6,Gym Membership,0.27,Python,SQL
+Salesforce,Product Manager,Finance,Seattle,Full-time,Senior,Remote,34791.88,USD,12.6,6,Health Insurance,0.19,JavaScript,React
+Adobe,DevOps Engineer,Finance,Boston,Internship,Lead,Onsite,30892.7,USD,0.3,4,Remote Stipend,4.7,JavaScript,React
+IBM,Data Scientist,Education,San Francisco,Contract,Mid,Hybrid,50714.22,EUR,6.3,10,Stock Options,0.55,R,Tableau
+Adobe,Data Scientist,Retail,San Francisco,Part-time,Mid,Hybrid,102970.61,AUD,5.3,10,Health Insurance,3.32,R,Tableau
+Microsoft,Data Scientist,Healthcare,San Francisco,Full-time,Lead,Hybrid,37400.85,GBP,14.7,5,Stock Options,1.79,C#,.NET
+Microsoft,Product Manager,Finance,Chicago,Full-time,Senior,Remote,37537.07,AUD,5.1,3,Gym Membership,4.9,C#,.NET
+Adobe,DevOps Engineer,Finance,Boston,Part-time,Entry,Onsite,161952.37,GBP,0.6,4,Health Insurance,4.43,Python,SQL
+Netflix,Product Manager,Retail,Seattle,Internship,Senior,Remote,158059.46,EUR,4.3,1,Flexible Hours,1.37,C#,.NET
+Netflix,UX Designer,Education,Chicago,Internship,Lead,Hybrid,195533.01,GBP,10.4,6,Flexible Hours,4.01,Go,Kubernetes
+Tesla,Data Analyst,Education,Remote,Part-time,Senior,Hybrid,47441.64,INR,9.9,5,Remote Stipend,3.59,R,Tableau
+Amazon,DevOps Engineer,Education,Austin,Internship,Entry,Onsite,177906.32,INR,9.2,7,Stock Options,0.38,Java,Spring
+Tesla,Product Manager,Retail,Boston,Part-time,Entry,Remote,174273.78,GBP,0.5,2,Flexible Hours,1.81,JavaScript,React
+IBM,Data Analyst,Retail,New York,Internship,Senior,Hybrid,105469.68,USD,8.6,9,Gym Membership,1.57,Java,Spring
+Meta,Software Engineer,Tech,San Francisco,Part-time,Lead,Onsite,95787.85,AUD,1.8,5,Gym Membership,1.07,C#,.NET
+IBM,Product Manager,Media,Seattle,Part-time,Entry,Remote,174980.47,GBP,2.6,8,Flexible Hours,3.34,Python,SQL
+Microsoft,Data Scientist,Retail,Austin,Contract,Mid,Onsite,150625.84,EUR,11.9,9,Stock Options,4.93,JavaScript,React
+Amazon,Software Engineer,Education,San Francisco,Contract,Senior,Hybrid,166622.49,AUD,1.9,2,Flexible Hours,1.99,Python,SQL
+Adobe,Data Scientist,Education,Boston,Internship,Entry,Remote,195304.55,USD,6.7,9,Health Insurance,4.39,Java,Spring
+Salesforce,DevOps Engineer,Retail,New York,Part-time,Lead,Onsite,184821.09,USD,12.5,9,Flexible Hours,0.82,JavaScript,React
+Netflix,DevOps Engineer,Finance,Austin,Contract,Entry,Hybrid,63371.33,AUD,4.1,5,Remote Stipend,0.47,Go,Kubernetes
+Amazon,Data Scientist,Retail,New York,Part-time,Senior,Onsite,37003.03,USD,1.2,10,Health Insurance,3.83,Java,Spring
+Tesla,Data Scientist,Media,San Francisco,Internship,Senior,Onsite,192630.53,GBP,3.7,7,Gym Membership,0.36,Java,Spring
+Google,Software Engineer,Education,Seattle,Internship,Lead,Remote,87832.74,EUR,4.7,6,Flexible Hours,4.88,C#,.NET
+Amazon,Product Manager,Retail,Remote,Full-time,Senior,Remote,109300.34,INR,6.7,3,Stock Options,1.45,Python,SQL
+Tesla,Data Scientist,Education,New York,Part-time,Senior,Onsite,152591.83,EUR,11.4,8,Gym Membership,2.49,Go,Kubernetes
+Meta,UX Designer,Tech,San Francisco,Internship,Lead,Remote,66574.55,INR,0.7,5,Remote Stipend,4.41,R,Tableau
+Adobe,Product Manager,Retail,San Francisco,Full-time,Lead,Remote,180017.47,INR,11.5,6,Gym Membership,0.26,Python,SQL
+Salesforce,Software Engineer,Healthcare,Remote,Contract,Entry,Hybrid,115723.44,AUD,4.2,10,Remote Stipend,0.59,C#,.NET
+Microsoft,UX Designer,Healthcare,Boston,Contract,Senior,Remote,63839.84,AUD,6,1,Stock Options,0.69,Python,SQL
+Netflix,UX Designer,Retail,Seattle,Part-time,Mid,Hybrid,188332.69,INR,2.4,10,Flexible Hours,2.97,C#,.NET
+Salesforce,Data Scientist,Retail,Seattle,Contract,Lead,Remote,92620.83,USD,14.7,10,Stock Options,2.98,Java,Spring
+Meta,DevOps Engineer,Retail,Remote,Part-time,Entry,Onsite,111676.29,AUD,9.4,10,Health Insurance,4.11,R,Tableau
+Apple,Data Analyst,Retail,Chicago,Full-time,Mid,Remote,104976.56,GBP,2.3,4,Remote Stipend,3.87,R,Tableau
+Adobe,DevOps Engineer,Media,San Francisco,Part-time,Mid,Onsite,85258.42,GBP,7.9,6,Gym Membership,4.56,JavaScript,React
+Netflix,Data Scientist,Healthcare,Chicago,Contract,Lead,Remote,192747.36,INR,8.4,4,Flexible Hours,3.52,Java,Spring
+Adobe,Product Manager,Education,Austin,Contract,Senior,Remote,127491.06,AUD,5.7,7,Health Insurance,1.45,Java,Spring
+Meta,DevOps Engineer,Tech,Austin,Internship,Senior,Onsite,111443.47,EUR,12.4,5,Flexible Hours,0.69,Go,Kubernetes
+IBM,DevOps Engineer,Retail,New York,Part-time,Entry,Onsite,183881.31,EUR,9.6,1,Gym Membership,1.65,Python,SQL
+Adobe,Data Analyst,Media,Boston,Part-time,Entry,Onsite,196244.82,EUR,6.1,8,Health Insurance,3.78,R,Tableau
+Meta,Product Manager,Healthcare,Chicago,Full-time,Entry,Onsite,127602.67,AUD,11.1,1,Gym Membership,4.41,JavaScript,React
+Amazon,Data Analyst,Education,Boston,Internship,Mid,Onsite,193562.33,INR,13.2,1,Remote Stipend,3.01,Java,Spring
+Netflix,Product Manager,Education,Chicago,Internship,Mid,Onsite,109563.53,EUR,12.1,6,Gym Membership,3.24,JavaScript,React
+Amazon,Data Analyst,Media,Austin,Contract,Mid,Remote,133862.26,GBP,12.4,9,Stock Options,2,Java,Spring
+Microsoft,Software Engineer,Finance,Seattle,Contract,Mid,Remote,74333.5,EUR,6.7,5,Flexible Hours,2.91,Java,Spring
+IBM,Data Analyst,Healthcare,Chicago,Contract,Mid,Remote,143523.64,GBP,4.6,7,Remote Stipend,4.62,C#,.NET
+Meta,DevOps Engineer,Tech,Chicago,Contract,Senior,Onsite,67544.37,EUR,7.2,8,Remote Stipend,1.87,C#,.NET
+Salesforce,UX Designer,Retail,Boston,Part-time,Mid,Onsite,158305.72,USD,7.9,9,Flexible Hours,0.39,C#,.NET
+IBM,Data Analyst,Tech,Boston,Part-time,Mid,Remote,85780,AUD,6.6,4,Remote Stipend,2.44,C#,.NET
+Salesforce,UX Designer,Tech,Seattle,Part-time,Lead,Hybrid,125864.9,AUD,6.9,5,Stock Options,1.98,C#,.NET
+Google,DevOps Engineer,Finance,Remote,Full-time,Entry,Hybrid,88569.91,USD,8.1,1,Gym Membership,0.16,Python,SQL
+Tesla,Software Engineer,Finance,Boston,Internship,Senior,Hybrid,106251.31,GBP,5.6,9,Flexible Hours,0.59,JavaScript,React
+Salesforce,UX Designer,Retail,New York,Part-time,Entry,Remote,196343.42,GBP,10.1,9,Remote Stipend,1.9,R,Tableau
+Apple,Software Engineer,Education,Austin,Part-time,Senior,Remote,189359.76,USD,0.5,7,Stock Options,1.2,Go,Kubernetes
+Microsoft,Data Analyst,Retail,San Francisco,Internship,Entry,Remote,155891.98,GBP,6.6,9,Stock Options,0.7,JavaScript,React
+Meta,Software Engineer,Media,Remote,Contract,Senior,Remote,81299.95,EUR,14.8,9,Gym Membership,1.5,JavaScript,React
+Google,Data Scientist,Retail,Chicago,Part-time,Lead,Onsite,114255.53,INR,14.1,7,Flexible Hours,3.48,Go,Kubernetes
+Tesla,Software Engineer,Healthcare,Seattle,Part-time,Lead,Remote,174387.96,INR,12.9,3,Stock Options,2.81,R,Tableau
+Tesla,Data Scientist,Retail,New York,Internship,Mid,Hybrid,64567.24,USD,13.8,6,Remote Stipend,3.62,Python,SQL
+Apple,Data Analyst,Healthcare,Seattle,Full-time,Entry,Remote,166790.61,AUD,10.9,9,Gym Membership,1.04,JavaScript,React
+Netflix,Product Manager,Tech,New York,Part-time,Entry,Onsite,199927.24,GBP,13.7,10,Health Insurance,1.98,C#,.NET
+Apple,Data Scientist,Healthcare,Boston,Contract,Lead,Hybrid,120720.52,INR,4.6,6,Gym Membership,2.33,Go,Kubernetes
+Adobe,Product Manager,Finance,Austin,Contract,Lead,Remote,125629.2,EUR,11.1,1,Remote Stipend,4.67,Java,Spring
+IBM,DevOps Engineer,Education,Austin,Part-time,Mid,Hybrid,69103.17,AUD,12.5,8,Flexible Hours,1.29,Go,Kubernetes
+Adobe,DevOps Engineer,Media,Chicago,Internship,Lead,Remote,154571.28,INR,2.5,9,Health Insurance,4.58,R,Tableau
+Salesforce,DevOps Engineer,Tech,Remote,Full-time,Entry,Onsite,38247.45,USD,6.2,4,Health Insurance,0.05,Python,SQL
+Salesforce,UX Designer,Healthcare,San Francisco,Internship,Lead,Remote,31124.1,AUD,6.2,1,Flexible Hours,2.68,Go,Kubernetes
+Meta,Data Analyst,Retail,Boston,Internship,Mid,Remote,186068.3,AUD,2.2,4,Remote Stipend,1.26,Go,Kubernetes
+Netflix,Product Manager,Education,San Francisco,Contract,Lead,Hybrid,126050.37,EUR,4.5,2,Stock Options,0.47,C#,.NET
+Tesla,UX Designer,Retail,Seattle,Full-time,Entry,Onsite,59135.21,GBP,12.7,6,Stock Options,4.47,Go,Kubernetes
+Google,Software Engineer,Finance,Boston,Internship,Senior,Remote,187107.08,INR,13.5,10,Stock Options,0.9,C#,.NET
+Netflix,Data Analyst,Finance,Remote,Part-time,Lead,Remote,80877.07,AUD,3.6,7,Remote Stipend,1.66,C#,.NET
+Amazon,DevOps Engineer,Media,San Francisco,Contract,Entry,Remote,104305,USD,5.1,10,Gym Membership,4.84,Go,Kubernetes
+Netflix,Data Analyst,Media,Austin,Internship,Lead,Remote,90487.9,GBP,6.5,10,Gym Membership,0.43,C#,.NET
+IBM,Product Manager,Finance,Chicago,Full-time,Entry,Hybrid,56217.56,EUR,11.1,6,Stock Options,0.46,Java,Spring
+Meta,UX Designer,Healthcare,Boston,Contract,Entry,Remote,44840.53,GBP,6.7,9,Gym Membership,0.52,Go,Kubernetes
+Microsoft,Product Manager,Retail,San Francisco,Contract,Lead,Remote,79614.05,GBP,11.7,9,Remote Stipend,2.61,JavaScript,React
+Tesla,Software Engineer,Finance,Austin,Contract,Senior,Hybrid,54808.92,EUR,6.5,7,Gym Membership,3.91,Java,Spring
+Netflix,Product Manager,Finance,Chicago,Internship,Mid,Hybrid,48185.3,INR,0.1,7,Remote Stipend,1.9,Java,Spring
+Netflix,UX Designer,Healthcare,Seattle,Part-time,Senior,Hybrid,132545.92,EUR,7.2,3,Flexible Hours,1.46,R,Tableau
+Adobe,Data Scientist,Finance,Austin,Internship,Senior,Hybrid,92052.64,AUD,3,9,Remote Stipend,0.13,JavaScript,React
+Adobe,DevOps Engineer,Finance,Seattle,Contract,Entry,Hybrid,144406.2,EUR,9.5,4,Health Insurance,3.58,Java,Spring
+Tesla,Data Analyst,Education,Remote,Internship,Lead,Onsite,116124.15,GBP,8.2,6,Remote Stipend,2.97,C#,.NET
+Microsoft,Data Analyst,Finance,Chicago,Contract,Mid,Onsite,134155.24,AUD,14.8,7,Gym Membership,0.53,Java,Spring
+Microsoft,Product Manager,Finance,Remote,Part-time,Lead,Hybrid,96492.81,AUD,10.4,3,Stock Options,2.41,Java,Spring
+Meta,UX Designer,Tech,San Francisco,Part-time,Senior,Hybrid,88321.34,EUR,7.8,6,Stock Options,2.19,R,Tableau
+Adobe,Product Manager,Tech,Austin,Full-time,Entry,Remote,174360.6,USD,10.2,3,Health Insurance,2.58,C#,.NET
+Salesforce,Software Engineer,Healthcare,Remote,Internship,Lead,Remote,165618.48,EUR,2.8,7,Stock Options,3.69,R,Tableau
+Apple,UX Designer,Retail,Seattle,Internship,Entry,Onsite,66515.34,INR,11.3,2,Stock Options,4,Go,Kubernetes
+Salesforce,Software Engineer,Healthcare,Austin,Part-time,Lead,Remote,74600.08,GBP,7.9,6,Gym Membership,3.06,Go,Kubernetes
+IBM,Data Analyst,Healthcare,Austin,Internship,Mid,Onsite,150018.02,INR,13.8,10,Health Insurance,1.57,Python,SQL
+Apple,Product Manager,Tech,New York,Contract,Mid,Onsite,96038.76,AUD,2.1,7,Health Insurance,2.43,R,Tableau
+Salesforce,DevOps Engineer,Media,New York,Part-time,Lead,Hybrid,53850.41,INR,12.6,10,Flexible Hours,4.76,Python,SQL
+Adobe,Software Engineer,Finance,Boston,Internship,Lead,Hybrid,146398.43,GBP,10.7,8,Health Insurance,0.41,R,Tableau
+Google,Software Engineer,Healthcare,San Francisco,Contract,Mid,Onsite,79073.95,GBP,8.5,8,Remote Stipend,0.57,Go,Kubernetes
+Microsoft,Product Manager,Retail,Boston,Contract,Entry,Onsite,105032.32,EUR,14.8,2,Health Insurance,1.49,C#,.NET
+Google,UX Designer,Healthcare,Austin,Full-time,Lead,Remote,161857.38,EUR,3.1,10,Flexible Hours,4.31,C#,.NET
+IBM,DevOps Engineer,Education,New York,Part-time,Mid,Remote,166924.88,AUD,5.3,5,Remote Stipend,0.84,Go,Kubernetes
+Meta,Product Manager,Retail,Austin,Full-time,Mid,Hybrid,186190.68,INR,13,3,Health Insurance,1.25,C#,.NET
+Netflix,Software Engineer,Media,Seattle,Internship,Mid,Onsite,137508.34,GBP,5.6,2,Stock Options,2.01,C#,.NET
+Meta,DevOps Engineer,Healthcare,Seattle,Internship,Senior,Onsite,30420.42,USD,11,8,Flexible Hours,4.25,C#,.NET
+Salesforce,UX Designer,Finance,Seattle,Part-time,Lead,Hybrid,84887.08,INR,5.1,10,Remote Stipend,4.26,JavaScript,React
+Netflix,DevOps Engineer,Tech,San Francisco,Full-time,Lead,Remote,51120.32,EUR,6.6,1,Health Insurance,4.98,R,Tableau
+Amazon,DevOps Engineer,Healthcare,New York,Contract,Entry,Onsite,91274.02,USD,5.6,3,Gym Membership,3.13,Python,SQL
+Apple,UX Designer,Media,San Francisco,Full-time,Entry,Remote,111057.14,EUR,8.9,9,Gym Membership,0.05,C#,.NET
+Netflix,Data Analyst,Education,Chicago,Part-time,Lead,Remote,68920.97,USD,11,2,Flexible Hours,1.84,Python,SQL
+Meta,Software Engineer,Education,Boston,Part-time,Mid,Remote,120186.41,USD,9.2,3,Flexible Hours,3.61,R,Tableau
+Amazon,UX Designer,Retail,Chicago,Internship,Mid,Remote,182420.8,EUR,11.3,10,Gym Membership,1.76,C#,.NET
+Tesla,Product Manager,Finance,New York,Contract,Entry,Remote,124077.43,AUD,10.8,5,Stock Options,4.24,C#,.NET
+Meta,Software Engineer,Retail,Remote,Part-time,Lead,Hybrid,139848.86,EUR,7.4,2,Gym Membership,3.19,JavaScript,React
+Microsoft,Data Scientist,Tech,Austin,Contract,Mid,Hybrid,176338.38,AUD,6.3,9,Health Insurance,3.81,C#,.NET
+Microsoft,Data Analyst,Retail,San Francisco,Full-time,Senior,Remote,36770.57,USD,14.2,7,Flexible Hours,3.14,Go,Kubernetes
+Salesforce,UX Designer,Education,Chicago,Internship,Entry,Onsite,121216.02,AUD,2.3,2,Stock Options,2.56,Java,Spring
+Apple,Software Engineer,Retail,Austin,Internship,Entry,Hybrid,148774.9,EUR,0.9,2,Stock Options,2.27,R,Tableau
+IBM,Data Analyst,Healthcare,Chicago,Part-time,Entry,Remote,150343.1,USD,2.5,6,Remote Stipend,3.91,Go,Kubernetes
+Meta,Software Engineer,Healthcare,New York,Contract,Entry,Remote,86951.87,GBP,4.1,2,Remote Stipend,3.14,Java,Spring
+Adobe,UX Designer,Retail,Austin,Full-time,Lead,Onsite,58369.84,EUR,3.8,2,Stock Options,1.14,Go,Kubernetes
+Salesforce,Data Analyst,Tech,Boston,Full-time,Mid,Remote,110199.98,GBP,13.8,3,Remote Stipend,4.02,Python,SQL
+Tesla,Software Engineer,Healthcare,New York,Internship,Senior,Hybrid,170419.49,AUD,5.6,9,Stock Options,0.9,C#,.NET
+Salesforce,Data Analyst,Education,San Francisco,Internship,Senior,Hybrid,85641.16,AUD,6.9,6,Flexible Hours,2.82,JavaScript,React
+Meta,DevOps Engineer,Retail,New York,Internship,Senior,Onsite,195215.82,EUR,11,9,Health Insurance,0.03,JavaScript,React
+Tesla,Data Analyst,Finance,Remote,Contract,Entry,Hybrid,30248.55,GBP,12.7,5,Health Insurance,2.65,Python,SQL
+Apple,UX Designer,Education,San Francisco,Part-time,Senior,Remote,37463.05,EUR,13.5,9,Flexible Hours,2.29,R,Tableau
+Microsoft,Data Scientist,Tech,Remote,Part-time,Lead,Remote,130622.28,USD,6.5,3,Flexible Hours,1.3,JavaScript,React
+Netflix,UX Designer,Media,Boston,Contract,Senior,Hybrid,76232.5,USD,14.2,3,Stock Options,0.78,Go,Kubernetes
+Amazon,UX Designer,Education,Austin,Internship,Entry,Onsite,90908.87,EUR,6.8,8,Stock Options,0.45,Java,Spring
+Meta,DevOps Engineer,Media,Remote,Full-time,Mid,Hybrid,55215.05,EUR,14.5,7,Stock Options,3.39,Go,Kubernetes
+Meta,Software Engineer,Tech,Seattle,Internship,Mid,Remote,108547.35,EUR,1.8,1,Health Insurance,0.99,JavaScript,React
+Tesla,Product Manager,Media,Chicago,Full-time,Senior,Remote,33706.03,USD,3,8,Stock Options,4.53,JavaScript,React
+Netflix,Data Analyst,Tech,Seattle,Full-time,Mid,Onsite,103636.58,GBP,7.4,7,Gym Membership,0.86,C#,.NET
+Apple,Software Engineer,Healthcare,Austin,Internship,Mid,Remote,134398.12,AUD,3.7,5,Gym Membership,4.41,R,Tableau
+Adobe,Data Analyst,Tech,Austin,Internship,Mid,Hybrid,63907.83,AUD,3.7,9,Gym Membership,3.91,Python,SQL
+Netflix,UX Designer,Retail,Boston,Internship,Senior,Onsite,115406.85,GBP,4.1,1,Remote Stipend,1.1,Java,Spring
+Meta,Data Analyst,Education,Remote,Contract,Mid,Remote,47022.84,EUR,4,1,Remote Stipend,4.23,JavaScript,React
+Tesla,Product Manager,Finance,New York,Part-time,Senior,Onsite,148596.52,AUD,0.4,6,Remote Stipend,0.71,Go,Kubernetes
+Apple,UX Designer,Retail,Austin,Part-time,Lead,Remote,45343.75,EUR,9,1,Gym Membership,0,Go,Kubernetes
+IBM,Software Engineer,Finance,Austin,Part-time,Senior,Remote,33725.19,AUD,10.6,3,Remote Stipend,4.3,Python,SQL
+Microsoft,Product Manager,Media,Chicago,Internship,Entry,Hybrid,81300.08,EUR,14.6,7,Gym Membership,3.25,C#,.NET
+Amazon,DevOps Engineer,Retail,Chicago,Contract,Mid,Onsite,130121.53,EUR,5.7,5,Health Insurance,3.64,JavaScript,React
+IBM,UX Designer,Retail,San Francisco,Part-time,Senior,Onsite,67552.19,AUD,1.6,8,Flexible Hours,3.73,JavaScript,React
+Apple,Product Manager,Healthcare,New York,Full-time,Senior,Hybrid,31937.26,EUR,3.7,2,Flexible Hours,3.94,Java,Spring
+Google,Data Analyst,Education,Seattle,Internship,Mid,Hybrid,113823.94,GBP,5.3,7,Gym Membership,3.94,Python,SQL
+IBM,DevOps Engineer,Media,New York,Part-time,Lead,Remote,165863.08,USD,4.4,6,Stock Options,0.37,Java,Spring
+Amazon,UX Designer,Finance,Chicago,Full-time,Entry,Hybrid,130985.19,AUD,13.4,1,Health Insurance,3.04,R,Tableau
+Tesla,Software Engineer,Tech,San Francisco,Contract,Mid,Remote,99577.58,AUD,10.8,9,Flexible Hours,1.49,Java,Spring
+Microsoft,Data Analyst,Education,Remote,Internship,Mid,Remote,91340.92,GBP,1.3,10,Health Insurance,0.48,R,Tableau
+Apple,Software Engineer,Media,Austin,Full-time,Lead,Remote,82420.08,GBP,7.1,5,Remote Stipend,1.94,Python,SQL
+Netflix,UX Designer,Healthcare,New York,Internship,Entry,Hybrid,104755.87,INR,3.4,5,Stock Options,0.76,Go,Kubernetes
+Microsoft,Data Analyst,Media,Austin,Internship,Mid,Onsite,40367.24,GBP,12.3,7,Gym Membership,2.86,Go,Kubernetes
+Apple,UX Designer,Healthcare,San Francisco,Internship,Entry,Onsite,127107.39,AUD,12,10,Stock Options,4.75,JavaScript,React
+Adobe,Software Engineer,Finance,New York,Part-time,Mid,Remote,101973.73,GBP,3,3,Flexible Hours,1.6,Go,Kubernetes
+Microsoft,Data Analyst,Education,Remote,Internship,Senior,Hybrid,118346.99,USD,11.8,10,Remote Stipend,3.91,Go,Kubernetes
+Microsoft,UX Designer,Finance,New York,Full-time,Entry,Onsite,162522.6,INR,13,6,Flexible Hours,1.92,R,Tableau
+Adobe,Data Scientist,Retail,Seattle,Full-time,Mid,Hybrid,98505.57,AUD,9.1,7,Gym Membership,4.45,Python,SQL
+Netflix,DevOps Engineer,Finance,San Francisco,Internship,Senior,Hybrid,33439.59,INR,4.7,8,Stock Options,4.86,C#,.NET
+Apple,Software Engineer,Healthcare,Chicago,Internship,Senior,Hybrid,153895.9,AUD,9.7,4,Health Insurance,4.57,R,Tableau
+Tesla,DevOps Engineer,Education,Boston,Contract,Entry,Onsite,164553.37,USD,4.7,9,Health Insurance,3.9,R,Tableau
+Salesforce,Data Scientist,Tech,New York,Part-time,Mid,Remote,72413.34,GBP,0.8,6,Health Insurance,1.37,C#,.NET
+Adobe,Data Scientist,Education,Chicago,Full-time,Entry,Remote,93319.35,AUD,6.7,8,Remote Stipend,1.75,Go,Kubernetes
+Amazon,Product Manager,Media,Boston,Full-time,Senior,Remote,95716.16,EUR,12.8,4,Health Insurance,3.39,JavaScript,React
+Meta,DevOps Engineer,Education,Remote,Full-time,Entry,Hybrid,184957.62,EUR,9,1,Flexible Hours,3.04,JavaScript,React
+Meta,DevOps Engineer,Media,Chicago,Contract,Lead,Hybrid,174769.65,GBP,3.8,8,Remote Stipend,4.12,Java,Spring
+Tesla,Data Scientist,Tech,San Francisco,Contract,Senior,Hybrid,146350.23,GBP,1,5,Flexible Hours,4.31,C#,.NET
+Meta,DevOps Engineer,Media,Chicago,Contract,Mid,Remote,117939.91,EUR,13.5,10,Flexible Hours,3.4,R,Tableau
+Google,DevOps Engineer,Education,Austin,Contract,Lead,Hybrid,96006.74,USD,8.7,10,Flexible Hours,3.63,JavaScript,React
+Apple,DevOps Engineer,Retail,Chicago,Internship,Senior,Onsite,81033.12,EUR,12.6,9,Flexible Hours,0.49,JavaScript,React
+Amazon,DevOps Engineer,Healthcare,Chicago,Part-time,Senior,Onsite,45180.97,INR,3.3,5,Flexible Hours,1.86,R,Tableau
+IBM,Product Manager,Education,Boston,Full-time,Lead,Remote,177286.87,AUD,8.7,10,Gym Membership,4.45,Python,SQL
+Salesforce,Data Analyst,Media,Seattle,Contract,Lead,Remote,178044.35,EUR,2.1,4,Gym Membership,4.94,Java,Spring
+Adobe,Software Engineer,Healthcare,Boston,Part-time,Entry,Hybrid,86547.01,EUR,4.7,1,Gym Membership,1.37,Python,SQL
+Amazon,Data Scientist,Finance,Seattle,Full-time,Mid,Onsite,103730.94,GBP,6.1,8,Stock Options,0.19,R,Tableau
+Apple,DevOps Engineer,Healthcare,San Francisco,Contract,Mid,Remote,145047.18,EUR,3.4,6,Health Insurance,0.51,Java,Spring
+Salesforce,Data Scientist,Healthcare,New York,Full-time,Entry,Hybrid,191238.77,GBP,10.9,10,Flexible Hours,2.17,Go,Kubernetes
+Amazon,Product Manager,Education,Austin,Part-time,Mid,Hybrid,33251.2,EUR,10.9,3,Stock Options,2.95,JavaScript,React
+Amazon,Data Analyst,Healthcare,Chicago,Full-time,Lead,Onsite,73484.16,AUD,9.3,10,Stock Options,3.27,Python,SQL
+Google,Data Analyst,Media,San Francisco,Internship,Lead,Hybrid,51011.16,INR,7.1,3,Stock Options,1.51,JavaScript,React
+Microsoft,DevOps Engineer,Retail,Austin,Part-time,Lead,Remote,116969.41,AUD,1.8,2,Gym Membership,0.99,Python,SQL
+Apple,Product Manager,Retail,New York,Contract,Lead,Hybrid,57263.51,AUD,7.4,4,Gym Membership,1.65,C#,.NET
+Google,Data Analyst,Media,San Francisco,Full-time,Lead,Remote,191405.82,AUD,1.1,2,Health Insurance,2.28,Java,Spring
+Meta,Product Manager,Education,San Francisco,Full-time,Mid,Remote,174882.28,INR,12,6,Stock Options,0.47,R,Tableau
+Google,Data Analyst,Finance,Chicago,Part-time,Senior,Hybrid,182069.69,AUD,4,2,Flexible Hours,0.91,Java,Spring
+Tesla,UX Designer,Education,Austin,Internship,Lead,Hybrid,140303.9,EUR,1.7,1,Stock Options,2.08,JavaScript,React
+IBM,UX Designer,Retail,Chicago,Internship,Mid,Onsite,94557.63,INR,9.2,3,Gym Membership,0.56,R,Tableau
+Tesla,UX Designer,Tech,San Francisco,Contract,Senior,Remote,149776.59,AUD,11.5,10,Remote Stipend,1.12,C#,.NET
+Netflix,Data Scientist,Retail,Chicago,Full-time,Lead,Onsite,153530.83,GBP,5.2,7,Remote Stipend,4.46,JavaScript,React
+IBM,Data Analyst,Tech,Chicago,Part-time,Lead,Hybrid,177800.66,USD,11.3,6,Flexible Hours,4.85,JavaScript,React
+Google,Data Scientist,Finance,Remote,Internship,Lead,Remote,43401.2,GBP,12,8,Gym Membership,2.24,Python,SQL
+Microsoft,UX Designer,Media,Chicago,Full-time,Entry,Hybrid,100097.55,AUD,8.2,2,Remote Stipend,3.19,Go,Kubernetes
+Salesforce,Data Scientist,Finance,Chicago,Internship,Senior,Hybrid,170302.87,EUR,12.7,6,Remote Stipend,3,Go,Kubernetes
+Netflix,DevOps Engineer,Education,San Francisco,Full-time,Mid,Remote,88030.71,INR,8.2,6,Stock Options,0.23,C#,.NET
+Amazon,UX Designer,Finance,Boston,Internship,Entry,Hybrid,133844.8,EUR,1.8,7,Gym Membership,4.12,JavaScript,React
+Apple,DevOps Engineer,Healthcare,San Francisco,Internship,Entry,Onsite,172369.26,AUD,1.8,8,Remote Stipend,4.78,R,Tableau
+Amazon,UX Designer,Tech,Remote,Full-time,Lead,Onsite,112098.43,AUD,11.7,3,Remote Stipend,0.87,C#,.NET
+Amazon,Data Analyst,Education,Chicago,Contract,Lead,Hybrid,196515.13,EUR,4.1,6,Gym Membership,4.02,Java,Spring
+Amazon,UX Designer,Retail,Chicago,Contract,Senior,Onsite,155259.17,AUD,9.5,4,Remote Stipend,3.57,JavaScript,React
+Netflix,DevOps Engineer,Finance,Chicago,Part-time,Senior,Onsite,49618.89,INR,8.4,10,Gym Membership,3.37,Go,Kubernetes
+Salesforce,Product Manager,Education,Boston,Full-time,Entry,Remote,94747.95,USD,10.1,4,Health Insurance,4.92,Java,Spring
+Meta,Software Engineer,Tech,Chicago,Contract,Mid,Onsite,35492.09,GBP,1.5,9,Remote Stipend,1.94,JavaScript,React
+Salesforce,DevOps Engineer,Healthcare,Chicago,Full-time,Lead,Hybrid,100816.26,INR,14.5,1,Flexible Hours,1.02,Python,SQL
+Adobe,Software Engineer,Media,Chicago,Contract,Mid,Onsite,193929.27,INR,6.7,2,Health Insurance,3.68,JavaScript,React
+Microsoft,UX Designer,Tech,Seattle,Contract,Senior,Remote,57357.9,INR,0.1,8,Health Insurance,0.2,C#,.NET
+Netflix,Data Scientist,Tech,Boston,Contract,Lead,Onsite,123527.23,USD,11.8,6,Health Insurance,4.78,Go,Kubernetes
+Salesforce,Data Analyst,Retail,New York,Internship,Lead,Remote,89398.5,EUR,10,6,Flexible Hours,1.09,Java,Spring
+IBM,Data Scientist,Education,Remote,Full-time,Entry,Onsite,88821.24,EUR,13.6,10,Health Insurance,4.79,Go,Kubernetes
+Netflix,UX Designer,Tech,Seattle,Contract,Senior,Remote,184927.11,INR,7.7,9,Gym Membership,0.22,R,Tableau
+Apple,Product Manager,Retail,San Francisco,Full-time,Mid,Onsite,120644.99,USD,3.2,4,Gym Membership,4.18,C#,.NET
+Apple,Data Scientist,Media,Chicago,Internship,Entry,Onsite,146627.4,USD,6.9,6,Stock Options,0.37,Python,SQL
+Amazon,Product Manager,Retail,San Francisco,Part-time,Senior,Hybrid,95965.54,GBP,6.5,1,Stock Options,2.67,R,Tableau
+IBM,Data Analyst,Media,Remote,Full-time,Entry,Hybrid,187768.12,USD,4.3,5,Stock Options,1.41,Go,Kubernetes
+Adobe,UX Designer,Education,Boston,Full-time,Lead,Remote,120689.52,EUR,11.2,9,Health Insurance,1.49,Java,Spring
+Netflix,Data Analyst,Retail,Boston,Part-time,Entry,Remote,30855.07,AUD,5.9,9,Flexible Hours,1.05,Python,SQL
+Netflix,Software Engineer,Education,Chicago,Part-time,Mid,Remote,67533.95,INR,2.9,3,Remote Stipend,4.26,C#,.NET
+Salesforce,UX Designer,Media,Remote,Full-time,Senior,Onsite,41451.67,USD,3,10,Flexible Hours,1.79,R,Tableau
+Apple,Data Analyst,Healthcare,Remote,Full-time,Mid,Hybrid,112596.41,INR,9.2,5,Remote Stipend,0.76,C#,.NET
+IBM,Product Manager,Healthcare,Seattle,Part-time,Entry,Hybrid,71849.77,EUR,10.7,7,Flexible Hours,0.67,Java,Spring
+Netflix,UX Designer,Education,Seattle,Contract,Senior,Hybrid,123784.21,EUR,9.7,2,Health Insurance,4.46,Java,Spring
+Apple,Product Manager,Media,Chicago,Full-time,Entry,Remote,174429.84,USD,12.2,10,Remote Stipend,1.06,R,Tableau
+Google,Data Scientist,Healthcare,Remote,Internship,Mid,Hybrid,96724.72,AUD,11,5,Gym Membership,2.51,JavaScript,React
+Microsoft,UX Designer,Healthcare,Remote,Full-time,Mid,Onsite,146307.48,AUD,2.1,3,Remote Stipend,4.74,JavaScript,React
+Amazon,DevOps Engineer,Media,Seattle,Contract,Entry,Remote,159450.3,EUR,0.9,6,Stock Options,3.34,JavaScript,React
+Salesforce,Product Manager,Education,Seattle,Internship,Entry,Remote,196700.26,INR,1.5,9,Flexible Hours,4.17,C#,.NET
+Meta,Data Scientist,Retail,Remote,Part-time,Lead,Onsite,94348.15,AUD,9.8,2,Flexible Hours,1.88,Go,Kubernetes
+Apple,Data Scientist,Education,Austin,Contract,Lead,Hybrid,180819.23,USD,7.5,3,Health Insurance,1.15,R,Tableau
+Salesforce,DevOps Engineer,Healthcare,New York,Part-time,Mid,Remote,91577.9,USD,9.9,7,Stock Options,2.41,Java,Spring
+Adobe,UX Designer,Finance,Remote,Part-time,Lead,Remote,71423.95,EUR,8.6,3,Remote Stipend,0.2,JavaScript,React
+IBM,Software Engineer,Tech,New York,Contract,Mid,Onsite,192900.52,AUD,14.5,1,Flexible Hours,4.74,C#,.NET
+Apple,UX Designer,Retail,Seattle,Internship,Mid,Remote,171161.81,AUD,2.1,10,Remote Stipend,3.3,JavaScript,React
+Meta,Software Engineer,Media,Chicago,Contract,Lead,Onsite,130401.32,EUR,5.7,3,Stock Options,1.01,Python,SQL
+Salesforce,DevOps Engineer,Education,Boston,Part-time,Entry,Remote,110897.76,AUD,9,9,Stock Options,0.47,Go,Kubernetes
+Amazon,Data Scientist,Retail,Boston,Full-time,Lead,Onsite,101516.28,USD,10.5,7,Gym Membership,3.95,JavaScript,React
+Tesla,Product Manager,Retail,Boston,Full-time,Lead,Remote,73268.06,EUR,13.7,2,Remote Stipend,4.38,Java,Spring
+Tesla,Product Manager,Finance,San Francisco,Full-time,Entry,Onsite,31222.99,EUR,10.3,6,Flexible Hours,0.53,R,Tableau
+Tesla,DevOps Engineer,Retail,Austin,Contract,Lead,Onsite,92159.5,INR,14.9,7,Gym Membership,2.76,JavaScript,React
+Salesforce,UX Designer,Finance,Austin,Internship,Senior,Hybrid,128200.7,GBP,11,2,Health Insurance,2.23,C#,.NET
+Amazon,Data Analyst,Finance,Remote,Internship,Senior,Onsite,134384.31,USD,2.4,1,Health Insurance,2.36,Python,SQL
+IBM,UX Designer,Tech,San Francisco,Contract,Mid,Hybrid,43606.76,USD,10.9,7,Remote Stipend,1.43,Go,Kubernetes
+IBM,Data Analyst,Finance,Chicago,Internship,Lead,Remote,64290.23,AUD,4.3,1,Remote Stipend,2.58,Go,Kubernetes
+Apple,Data Scientist,Finance,Chicago,Full-time,Senior,Remote,141353.25,EUR,1.3,5,Flexible Hours,3.35,R,Tableau
+Tesla,Data Scientist,Finance,Remote,Full-time,Entry,Remote,123430.75,AUD,13.7,6,Flexible Hours,1.13,Java,Spring
+Apple,UX Designer,Education,Remote,Full-time,Senior,Remote,99212.89,USD,8.4,9,Flexible Hours,4.74,Java,Spring
+Salesforce,Product Manager,Retail,Boston,Contract,Lead,Hybrid,125738.66,EUR,11.4,8,Gym Membership,4.48,C#,.NET
+Google,UX Designer,Tech,Austin,Full-time,Lead,Onsite,164071.52,EUR,10.2,4,Gym Membership,4.78,Java,Spring
+Salesforce,Data Scientist,Tech,Chicago,Contract,Mid,Hybrid,45811.6,INR,1.1,3,Flexible Hours,1.77,R,Tableau
+IBM,Product Manager,Finance,Chicago,Part-time,Lead,Onsite,63943.31,EUR,13.1,4,Health Insurance,4.17,JavaScript,React
+IBM,Product Manager,Finance,Boston,Full-time,Entry,Remote,144888.06,GBP,9.2,9,Gym Membership,1.86,Python,SQL
+Netflix,UX Designer,Retail,Boston,Contract,Lead,Remote,197347.1,AUD,4.2,4,Health Insurance,0.27,Go,Kubernetes
+Tesla,UX Designer,Retail,San Francisco,Contract,Lead,Onsite,161903.67,GBP,14.6,9,Flexible Hours,3.45,R,Tableau
+Google,DevOps Engineer,Finance,Seattle,Full-time,Senior,Hybrid,134172.28,INR,2.8,5,Flexible Hours,2.36,JavaScript,React
+IBM,Product Manager,Healthcare,New York,Internship,Lead,Remote,101245.8,INR,5.5,7,Gym Membership,0.9,Java,Spring
+Amazon,Data Scientist,Media,New York,Full-time,Senior,Remote,124407.81,GBP,2.9,3,Stock Options,0.88,R,Tableau
+Adobe,Software Engineer,Media,Remote,Contract,Lead,Hybrid,72665.59,AUD,0.7,2,Health Insurance,0.3,C#,.NET
+Meta,UX Designer,Media,San Francisco,Internship,Senior,Hybrid,91363.54,AUD,8.4,5,Stock Options,2.06,Java,Spring
+Netflix,DevOps Engineer,Retail,New York,Part-time,Senior,Hybrid,85265.35,AUD,7.3,8,Gym Membership,3.07,Python,SQL
+Adobe,DevOps Engineer,Finance,Boston,Part-time,Senior,Hybrid,137316.48,AUD,6.1,2,Health Insurance,1.72,Python,SQL
+Netflix,Product Manager,Media,Austin,Contract,Lead,Hybrid,180907.61,INR,11.2,9,Gym Membership,0.84,R,Tableau
+Google,Software Engineer,Media,New York,Contract,Entry,Remote,58374.78,USD,1.4,8,Stock Options,0.13,Go,Kubernetes
+Tesla,Data Scientist,Tech,San Francisco,Contract,Mid,Remote,141321.55,GBP,4.6,4,Flexible Hours,2.22,C#,.NET
+Amazon,Software Engineer,Retail,Boston,Part-time,Entry,Remote,142803.35,INR,13,8,Flexible Hours,2.74,Go,Kubernetes
+Amazon,DevOps Engineer,Retail,New York,Internship,Lead,Onsite,138763.71,AUD,4.6,6,Remote Stipend,1.14,R,Tableau
+Microsoft,UX Designer,Healthcare,Austin,Internship,Senior,Remote,81607.4,USD,7.8,3,Flexible Hours,2.35,Java,Spring
+Google,DevOps Engineer,Education,Boston,Internship,Senior,Remote,160197.76,INR,9,1,Flexible Hours,0.94,Go,Kubernetes
+Salesforce,UX Designer,Education,New York,Part-time,Lead,Hybrid,67500.71,USD,6.3,4,Remote Stipend,4.04,Go,Kubernetes
+Meta,Product Manager,Media,Chicago,Contract,Lead,Remote,175091.94,EUR,2,2,Gym Membership,3.09,C#,.NET
+Meta,DevOps Engineer,Retail,Seattle,Part-time,Senior,Remote,55865.38,AUD,0.3,2,Flexible Hours,0.63,Java,Spring
+Adobe,DevOps Engineer,Tech,New York,Full-time,Mid,Remote,113908.52,INR,6.3,8,Gym Membership,3.48,Java,Spring
+Google,Product Manager,Tech,Boston,Part-time,Entry,Hybrid,161860.99,USD,8.1,3,Flexible Hours,4.09,JavaScript,React
+Google,Data Analyst,Media,New York,Internship,Lead,Remote,155395.23,USD,3,2,Health Insurance,2.36,Go,Kubernetes
+Meta,Product Manager,Finance,Chicago,Full-time,Entry,Hybrid,111809.03,INR,3,1,Health Insurance,4.87,C#,.NET
+Apple,DevOps Engineer,Education,Austin,Full-time,Mid,Hybrid,129398.47,GBP,11.8,1,Remote Stipend,3.92,Python,SQL
+Adobe,DevOps Engineer,Retail,New York,Contract,Entry,Remote,56808.74,USD,10.3,6,Stock Options,0.3,C#,.NET
+Amazon,DevOps Engineer,Retail,Boston,Full-time,Mid,Hybrid,69554.69,AUD,11.8,6,Health Insurance,0.11,R,Tableau
+Tesla,Product Manager,Media,New York,Contract,Entry,Hybrid,150126.42,AUD,4.4,8,Remote Stipend,0.93,JavaScript,React
+Netflix,Product Manager,Media,Seattle,Contract,Mid,Remote,120293.36,GBP,4.4,5,Flexible Hours,2.27,Go,Kubernetes
+Salesforce,UX Designer,Media,New York,Full-time,Senior,Onsite,70593.71,USD,9.9,9,Health Insurance,2.62,R,Tableau
+Adobe,Data Scientist,Finance,Remote,Contract,Senior,Hybrid,138953.67,USD,1.4,2,Health Insurance,0.89,Python,SQL
+Google,Software Engineer,Tech,Seattle,Part-time,Entry,Remote,127072.07,GBP,9.9,9,Remote Stipend,1.28,Go,Kubernetes
+Netflix,Software Engineer,Retail,Chicago,Full-time,Entry,Remote,141477.39,USD,7,1,Remote Stipend,3.72,Java,Spring
+Tesla,Product Manager,Media,San Francisco,Contract,Entry,Onsite,41965.98,INR,1.2,4,Stock Options,0.51,Go,Kubernetes
+Apple,Data Scientist,Education,New York,Part-time,Mid,Onsite,136305.26,EUR,8.4,9,Stock Options,3.83,R,Tableau
+IBM,Product Manager,Media,Seattle,Internship,Entry,Remote,164718.47,AUD,6,6,Health Insurance,2.67,C#,.NET
+IBM,UX Designer,Healthcare,Austin,Contract,Senior,Hybrid,159911.34,GBP,12.4,6,Health Insurance,2.82,Go,Kubernetes
+Apple,UX Designer,Retail,Chicago,Contract,Senior,Hybrid,106074.96,GBP,0,1,Remote Stipend,0.08,Java,Spring
+Amazon,Product Manager,Tech,Austin,Part-time,Mid,Hybrid,33689.23,INR,13.8,9,Remote Stipend,4.63,Go,Kubernetes
+Amazon,Data Analyst,Tech,Seattle,Contract,Mid,Remote,75047.99,AUD,3.7,5,Stock Options,2.85,Java,Spring
+IBM,Software Engineer,Media,San Francisco,Contract,Lead,Remote,113006.99,AUD,12.3,2,Flexible Hours,0.19,Go,Kubernetes
+IBM,UX Designer,Tech,Boston,Full-time,Senior,Hybrid,179564.73,GBP,6.2,2,Remote Stipend,4.64,JavaScript,React
+Tesla,Data Analyst,Healthcare,Remote,Full-time,Senior,Onsite,126035.19,INR,7.5,4,Stock Options,3.37,JavaScript,React
+Tesla,UX Designer,Retail,Remote,Full-time,Mid,Hybrid,79263.11,GBP,2.2,6,Gym Membership,2.86,Python,SQL
+Google,Data Scientist,Education,Austin,Full-time,Lead,Onsite,103863.49,EUR,11.4,8,Health Insurance,2.44,Go,Kubernetes
+IBM,Software Engineer,Retail,Remote,Part-time,Mid,Remote,75263.71,GBP,4.9,10,Stock Options,3.36,Python,SQL
+Tesla,Product Manager,Healthcare,New York,Contract,Senior,Onsite,141419.68,INR,2.5,6,Gym Membership,3.12,Go,Kubernetes
+Adobe,Data Analyst,Finance,New York,Contract,Mid,Onsite,174969.9,USD,11.1,4,Health Insurance,4.34,Go,Kubernetes
+Meta,Data Analyst,Healthcare,Chicago,Full-time,Senior,Hybrid,110102.35,INR,3.1,9,Health Insurance,2.73,JavaScript,React
+Meta,Data Scientist,Education,Remote,Part-time,Entry,Hybrid,129110.84,AUD,0.7,3,Flexible Hours,1,Python,SQL
+IBM,Product Manager,Tech,Seattle,Full-time,Entry,Hybrid,142263.38,INR,13,1,Gym Membership,1.16,Java,Spring
+Tesla,Data Scientist,Media,San Francisco,Contract,Lead,Onsite,120365.31,EUR,3,8,Stock Options,0.2,Go,Kubernetes
+Salesforce,Product Manager,Healthcare,Seattle,Internship,Mid,Remote,88952.58,INR,5.3,5,Remote Stipend,1.38,JavaScript,React
+Google,DevOps Engineer,Healthcare,Seattle,Full-time,Senior,Remote,55790.39,GBP,9.9,2,Gym Membership,2.6,C#,.NET
+IBM,DevOps Engineer,Media,New York,Internship,Mid,Onsite,55967.36,INR,13.6,6,Remote Stipend,0.66,R,Tableau
+Amazon,Data Scientist,Retail,Chicago,Part-time,Mid,Hybrid,147050.46,AUD,13.6,7,Remote Stipend,4.59,JavaScript,React
+Netflix,Data Analyst,Retail,Remote,Full-time,Mid,Hybrid,172718.83,EUR,10.9,6,Gym Membership,1.52,R,Tableau
+Meta,Software Engineer,Finance,San Francisco,Part-time,Mid,Remote,159616.07,AUD,9.3,10,Remote Stipend,1.15,Go,Kubernetes
+Apple,Software Engineer,Media,San Francisco,Contract,Entry,Onsite,162570.46,EUR,7.5,10,Flexible Hours,0.92,R,Tableau
+Tesla,UX Designer,Education,New York,Part-time,Mid,Remote,35479.02,USD,13.9,7,Health Insurance,3.79,JavaScript,React
+Microsoft,Software Engineer,Education,Boston,Internship,Senior,Hybrid,180889.78,GBP,6.1,1,Gym Membership,3.6,Go,Kubernetes
+Tesla,Data Scientist,Media,Remote,Full-time,Entry,Hybrid,107673.07,USD,13.2,4,Remote Stipend,1.98,Go,Kubernetes
+Google,Data Scientist,Education,Remote,Full-time,Mid,Hybrid,104724.16,INR,11.6,5,Health Insurance,2.11,R,Tableau
+IBM,Data Analyst,Media,Remote,Part-time,Lead,Onsite,106788.67,AUD,1.7,10,Remote Stipend,0.68,C#,.NET
+Tesla,Product Manager,Education,San Francisco,Part-time,Lead,Onsite,182424.98,EUR,13.2,2,Flexible Hours,3.46,Java,Spring
+Amazon,DevOps Engineer,Media,San Francisco,Full-time,Entry,Onsite,106397.73,INR,1.3,7,Remote Stipend,3.06,C#,.NET
+Amazon,UX Designer,Retail,Seattle,Full-time,Mid,Hybrid,126133.57,EUR,2.4,3,Stock Options,2.1,JavaScript,React
+Meta,DevOps Engineer,Education,Austin,Part-time,Entry,Remote,193273.76,USD,9.3,5,Gym Membership,2.49,Python,SQL
+Adobe,Data Scientist,Tech,Remote,Internship,Mid,Remote,130106.6,GBP,6.8,8,Remote Stipend,3,Python,SQL
+Apple,Data Scientist,Healthcare,Remote,Part-time,Entry,Remote,55203.55,INR,0.6,1,Remote Stipend,4.19,C#,.NET
+Meta,Product Manager,Tech,San Francisco,Full-time,Lead,Remote,57426.99,INR,9.2,10,Remote Stipend,0.89,Go,Kubernetes
+Adobe,DevOps Engineer,Retail,Austin,Full-time,Entry,Hybrid,84879.71,GBP,12.3,7,Stock Options,1.46,Go,Kubernetes
+Amazon,Data Analyst,Media,Boston,Contract,Senior,Onsite,100338.84,EUR,10.4,10,Stock Options,2.86,Python,SQL
+Salesforce,Data Analyst,Education,Chicago,Contract,Lead,Onsite,174125.65,INR,7.9,10,Health Insurance,3.07,Java,Spring
+Adobe,Data Scientist,Media,Chicago,Internship,Lead,Remote,180222.83,EUR,10.6,4,Stock Options,0.12,Python,SQL
+Microsoft,DevOps Engineer,Finance,Boston,Internship,Lead,Remote,86744.68,AUD,12.1,4,Health Insurance,3.45,Python,SQL
+Meta,Data Analyst,Healthcare,Austin,Contract,Entry,Remote,146592.08,INR,5.9,10,Stock Options,4.16,Go,Kubernetes
+Apple,Product Manager,Healthcare,Chicago,Internship,Lead,Remote,139760.88,GBP,2.3,8,Flexible Hours,2.31,Go,Kubernetes
+Tesla,DevOps Engineer,Tech,Boston,Contract,Senior,Onsite,121100.53,EUR,8.7,6,Stock Options,4.85,Java,Spring
+Meta,Data Analyst,Healthcare,Seattle,Part-time,Lead,Remote,131182.62,INR,10.6,6,Stock Options,1.36,C#,.NET
+Microsoft,UX Designer,Finance,Austin,Internship,Senior,Remote,119267.07,EUR,1.7,1,Stock Options,2.22,JavaScript,React
+Google,UX Designer,Retail,New York,Part-time,Senior,Hybrid,154514.98,AUD,4.7,6,Stock Options,4.11,JavaScript,React
+Salesforce,DevOps Engineer,Finance,New York,Full-time,Lead,Hybrid,151325.16,AUD,1.7,5,Remote Stipend,4.36,Python,SQL
+Netflix,UX Designer,Tech,San Francisco,Contract,Entry,Onsite,158943.95,EUR,4.8,4,Flexible Hours,2.66,Java,Spring
+Adobe,DevOps Engineer,Tech,Austin,Part-time,Mid,Hybrid,49458.27,AUD,8.4,2,Remote Stipend,1.75,JavaScript,React
+Netflix,Product Manager,Finance,Chicago,Contract,Mid,Remote,42111.29,AUD,13.4,9,Stock Options,0.65,R,Tableau
+Adobe,DevOps Engineer,Tech,San Francisco,Internship,Entry,Remote,102499.18,EUR,10.6,10,Gym Membership,3.08,C#,.NET
+Meta,Product Manager,Finance,Chicago,Full-time,Lead,Onsite,52405.2,GBP,1.5,5,Gym Membership,2.35,C#,.NET
+Apple,Software Engineer,Retail,Austin,Contract,Lead,Remote,148934.49,INR,11.8,6,Gym Membership,0.15,R,Tableau
+Adobe,Data Analyst,Healthcare,Seattle,Internship,Mid,Hybrid,160550.06,AUD,8.6,9,Gym Membership,4.09,Python,SQL
+Microsoft,Product Manager,Retail,Chicago,Full-time,Senior,Onsite,108365.72,AUD,6.2,10,Remote Stipend,0.8,JavaScript,React
+Adobe,UX Designer,Tech,Austin,Part-time,Lead,Hybrid,126425.9,INR,8.2,4,Stock Options,3.7,JavaScript,React
+IBM,UX Designer,Tech,Remote,Internship,Senior,Onsite,46601.16,GBP,2.6,7,Remote Stipend,0.54,Python,SQL
+IBM,UX Designer,Healthcare,Seattle,Full-time,Entry,Remote,168895.71,AUD,13.5,1,Health Insurance,2.26,JavaScript,React
+Meta,UX Designer,Retail,Remote,Internship,Mid,Remote,145857.85,INR,4.5,5,Flexible Hours,4.95,R,Tableau
+IBM,Data Analyst,Retail,Remote,Internship,Mid,Hybrid,40609.79,AUD,14.5,1,Remote Stipend,4.1,C#,.NET
+Netflix,Data Analyst,Healthcare,Boston,Full-time,Mid,Hybrid,149377.72,GBP,9.4,7,Gym Membership,2.18,R,Tableau
+Apple,DevOps Engineer,Finance,Seattle,Part-time,Mid,Onsite,95381.16,INR,12.6,3,Health Insurance,0.67,Java,Spring
+Microsoft,DevOps Engineer,Tech,New York,Internship,Lead,Remote,44392.79,GBP,12.9,10,Remote Stipend,0.9,R,Tableau
+Salesforce,UX Designer,Retail,Boston,Internship,Lead,Hybrid,68375.96,GBP,9.1,10,Health Insurance,3.56,R,Tableau
+Meta,UX Designer,Retail,Remote,Contract,Entry,Remote,126585.43,INR,1.7,8,Stock Options,0.71,C#,.NET
+Salesforce,Product Manager,Education,Remote,Full-time,Entry,Remote,110316.77,USD,10.3,9,Flexible Hours,3.07,Go,Kubernetes
+Netflix,Data Scientist,Tech,Seattle,Internship,Lead,Onsite,154748.47,GBP,5.3,5,Health Insurance,0.18,Java,Spring
+IBM,DevOps Engineer,Healthcare,Chicago,Contract,Entry,Onsite,110437.29,EUR,8.6,5,Remote Stipend,0.14,C#,.NET
+Adobe,Data Analyst,Finance,Remote,Full-time,Senior,Hybrid,52531.59,INR,4.1,5,Stock Options,3.02,Python,SQL
+IBM,DevOps Engineer,Finance,Chicago,Internship,Senior,Remote,74412.94,EUR,7.3,9,Flexible Hours,4.92,Python,SQL
+Amazon,Data Scientist,Finance,Boston,Internship,Lead,Hybrid,70451.06,GBP,10.9,3,Remote Stipend,3.67,JavaScript,React
+Netflix,Data Analyst,Media,Austin,Full-time,Entry,Remote,108882.54,GBP,4.5,9,Gym Membership,3.42,JavaScript,React
+Tesla,UX Designer,Healthcare,New York,Internship,Entry,Hybrid,187627.83,GBP,5.7,6,Stock Options,0.49,Go,Kubernetes
+Salesforce,DevOps Engineer,Healthcare,Boston,Internship,Senior,Hybrid,75955.44,USD,3.8,10,Gym Membership,3.87,R,Tableau
+Apple,DevOps Engineer,Media,Remote,Part-time,Senior,Onsite,147347.32,EUR,4.7,1,Stock Options,4.16,C#,.NET
+Google,UX Designer,Tech,Remote,Full-time,Lead,Hybrid,67300.78,INR,3.8,1,Remote Stipend,0.46,Python,SQL
+IBM,DevOps Engineer,Finance,Remote,Full-time,Entry,Remote,175594.94,EUR,5.6,10,Stock Options,3.48,JavaScript,React
+Meta,Product Manager,Education,Chicago,Full-time,Lead,Hybrid,160791.05,INR,3.9,2,Stock Options,1.91,Java,Spring
+Netflix,Data Analyst,Healthcare,Boston,Contract,Mid,Hybrid,41797.74,EUR,9.2,3,Gym Membership,0.54,C#,.NET
+Salesforce,UX Designer,Finance,Remote,Full-time,Lead,Onsite,74029.36,USD,1.1,10,Flexible Hours,3.89,C#,.NET
+Google,UX Designer,Finance,Chicago,Full-time,Entry,Onsite,96382.25,EUR,10.5,7,Stock Options,2.58,Go,Kubernetes
+Adobe,UX Designer,Education,Seattle,Full-time,Mid,Remote,95352.06,GBP,1.8,9,Flexible Hours,3.41,Java,Spring
+Tesla,Data Analyst,Media,Chicago,Full-time,Senior,Onsite,175068.15,INR,1.2,8,Health Insurance,0.88,Java,Spring
+Google,UX Designer,Media,New York,Contract,Lead,Remote,137204.9,INR,7.3,8,Health Insurance,0.7,C#,.NET
+Apple,Data Analyst,Media,Remote,Part-time,Lead,Hybrid,40708.75,AUD,9.7,8,Gym Membership,4.83,Go,Kubernetes
+Google,Data Analyst,Healthcare,San Francisco,Contract,Entry,Hybrid,50091.81,AUD,6.9,9,Remote Stipend,1.16,JavaScript,React
+Microsoft,Data Analyst,Media,New York,Internship,Entry,Hybrid,184220.41,AUD,0.7,3,Health Insurance,3.16,Python,SQL
+Meta,Data Analyst,Education,Remote,Part-time,Entry,Remote,49410.55,AUD,12,4,Health Insurance,2.13,Python,SQL
+Tesla,Product Manager,Tech,Chicago,Part-time,Senior,Remote,159918.74,AUD,2.6,2,Flexible Hours,0.71,Python,SQL
+Tesla,Software Engineer,Media,Austin,Part-time,Lead,Remote,187364.84,USD,2,10,Health Insurance,0.08,R,Tableau
+Adobe,Data Analyst,Tech,San Francisco,Part-time,Entry,Onsite,140798.48,INR,6.2,8,Health Insurance,1.03,C#,.NET
+Meta,Data Scientist,Education,Seattle,Part-time,Mid,Onsite,147584.51,AUD,2.7,8,Stock Options,3.14,Go,Kubernetes
+Meta,Product Manager,Education,San Francisco,Part-time,Mid,Remote,197722.6,USD,9.3,9,Health Insurance,2.32,Go,Kubernetes
+Apple,Product Manager,Tech,New York,Full-time,Mid,Onsite,173442.89,GBP,7.5,3,Stock Options,0.27,C#,.NET
+Netflix,Product Manager,Finance,Seattle,Contract,Senior,Onsite,166876.12,GBP,0.6,1,Health Insurance,0.79,Go,Kubernetes
+Google,UX Designer,Retail,San Francisco,Full-time,Mid,Onsite,105619.55,AUD,4.9,4,Flexible Hours,1.15,C#,.NET
+Microsoft,Product Manager,Finance,San Francisco,Part-time,Lead,Remote,93840.51,EUR,1.1,10,Stock Options,4.45,R,Tableau
+Amazon,Software Engineer,Retail,Seattle,Part-time,Lead,Hybrid,53188.78,EUR,9.5,5,Flexible Hours,0.64,JavaScript,React
+IBM,Data Analyst,Healthcare,New York,Full-time,Lead,Hybrid,101098.05,INR,3.3,5,Health Insurance,3.95,Go,Kubernetes
+IBM,Software Engineer,Retail,Remote,Part-time,Entry,Hybrid,175685.54,GBP,12.9,4,Gym Membership,4.18,Go,Kubernetes
